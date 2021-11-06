@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Actor-cards/static/css/main.b0f7ed2c.chunk.css",
+    "main.js": "/Actor-cards/static/js/main.3997820a.chunk.js",
+    "main.js.map": "/Actor-cards/static/js/main.3997820a.chunk.js.map",
+    "runtime-main.js": "/Actor-cards/static/js/runtime-main.f0ada994.js",
+    "runtime-main.js.map": "/Actor-cards/static/js/runtime-main.f0ada994.js.map",
+    "static/js/2.e5b734b4.chunk.js": "/Actor-cards/static/js/2.e5b734b4.chunk.js",
+    "static/js/2.e5b734b4.chunk.js.map": "/Actor-cards/static/js/2.e5b734b4.chunk.js.map",
+    "index.html": "/Actor-cards/index.html",
+    "static/css/main.b0f7ed2c.chunk.css.map": "/Actor-cards/static/css/main.b0f7ed2c.chunk.css.map",
+    "static/js/2.e5b734b4.chunk.js.LICENSE.txt": "/Actor-cards/static/js/2.e5b734b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0ada994.js",
+    "static/js/2.e5b734b4.chunk.js",
+    "static/css/main.b0f7ed2c.chunk.css",
+    "static/js/main.3997820a.chunk.js"
+  ]
+}
