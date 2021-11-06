@@ -1,0 +1,28 @@
+.icon-btn {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    border: 2px solid white;
+    color: white;
+    border-radius: 5px;
+    background-color: transparent;
+    transition: all 0.2s ease;
+  }
+  .icon-btn:hover {
+    border: 2px solid rgb(255, 109, 109);
+    color: rgb(253, 253, 253);
+  }
+  .btn-remove {
+    top: 20px;
+    right: 20px;
+  }
+  .btn-like {
+    top: 60px;
+    right: 20px;
+    font-size: 15px;
+  }
+  .btn-like.active {
+    color: red;
+    border: 2px solid red;
+  }

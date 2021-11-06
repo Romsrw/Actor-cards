@@ -1,0 +1,21 @@
+.app {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+.app__title {
+  text-align: center;
+}
+.cards-enter {
+  opacity: 0;
+}
+.cards-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+.cards-exit {
+  opacity: 1;
+}
+.cards-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-in;
+}
